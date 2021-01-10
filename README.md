@@ -1,2 +1,2 @@
 # API-Covid19-Colombia
-API para obtener datos acerca del estado del Covid19 en Colombia. 🦠
+API to get data from a public database about Covid 19 in Colombia. 🦠
